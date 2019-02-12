@@ -1,3 +1,5 @@
+This library has been forked from [HithereJoe](https://github.com/hitherejoe/FlutterOAuth). As the library was unfortunately deprecated, we updated it to Dart 2. The following ReadMe is from the original contributors. 
+
 # Flutter OAuth
 
 A Flutter OAuth package for performing user authentication for your apps.
