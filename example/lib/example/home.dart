@@ -66,7 +66,7 @@ class MainState extends State<Main> {
       title: new Text("Access Token"),
       content: new Text(token.accessToken),
     );
-    showDialog(context: context, child: alert);
+    showDialog(context: context, builder: (_) => alert);
   }
 
 }
