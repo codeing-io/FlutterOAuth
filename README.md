@@ -70,7 +70,7 @@ Add the following you your pubspec.yaml dependancies:
 
 ```yaml
 dependencies:
-  flutter__generic_oauth: "^1.0.0"
+  flutter_generic_oauth: "^1.0.0"
 ```
 
 ## Thanks to
